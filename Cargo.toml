@@ -1,0 +1,12 @@
+[package]
+name = "spam"
+version = "0.1.0"
+authors = ["icew4ll <icew4ll.io>"]
+
+[dependencies]
+quicli = "0.2.0"
+duct = "0.10.0"
+dotenv_codegen = "0.11.0"
+prettytable-rs = "0.7.0"
+lazy_static = "1.0.1"
+regex = "1.0.0"
